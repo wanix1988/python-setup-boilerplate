@@ -24,4 +24,7 @@ $ pip install mkpi
 
 ### License
 
-[MIT]()
+[MIT](https://github.com/wanix1988/python-setup-boilerplate/blob/master/LICENSE)
+[version-badge]: https://img.shields.io/badge/version-0.1-brightgreen.svg
+[version-link]:    https://pypi.org/project/mkpi
+[license-badge]:   https://img.shields.io/github/license/mashape/apistatus.svg
