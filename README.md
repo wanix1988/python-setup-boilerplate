@@ -1,4 +1,4 @@
-# mkpi [![Version][version-badge]][version-link]![MIT License][license-badge]
+# mkpi [![Version][version-badge]][version-link] ![MIT License][license-badge]
 
 make python project setuptools template
 
