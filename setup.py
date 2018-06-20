@@ -8,7 +8,7 @@ with open('README.md', 'r', encoding='UTF-8') as df:
 
 setuptools.setup(
     name = "mkpi",
-    version = "0.1",
+    version = "0.1.1",
     author = "Linwei Wang",
     author_email = "wenix@live.cn",
     description = "make python project setuptools template",
