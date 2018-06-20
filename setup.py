@@ -13,7 +13,6 @@ setuptools.setup(
     author_email = "wenix@live.cn",
     description = "make python project setuptools template",
     long_description = long_description,
-    long_description_content_type = "text/markdown",
     url = "https://github.com/wanix1988/python-setup-boilerplate",
     packages = setuptools.find_packages(),
     include_package_data = True,
